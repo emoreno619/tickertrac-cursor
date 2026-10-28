@@ -1,0 +1,23 @@
+{
+  "name": "tickertrac-assistant",
+  "version": "1.7.0",
+  "author": {
+    "name": "TickerTrac",
+    "email": "support@tickertrac.com",
+    "url": "https://tickertrac.com"
+  },
+  "license": "UNLICENSED",
+  "keywords": [
+    "investing",
+    "thesis",
+    "evidence",
+    "sec-filings",
+    "earnings-calls",
+    "research-memory"
+  ],
+  "description": "Review your saved investment theses in Cursor, check cited evidence and preserve how your reasoning changes. Manage TickerTrac updates with your approval.",
+  "homepage": "https://tickertrac.com/assistants?source=cursor&medium=organic&campaign=assistant-connect-202610&creative=directory-v1",
+  "logo": "assets/icon.svg",
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
